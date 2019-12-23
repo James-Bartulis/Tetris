@@ -7,16 +7,20 @@
 [What is Tetris?](https://en.wikipedia.org/wiki/Tetris)
 
 # Install for windows
-1. Download zip to Documents
-2. Unzip Tetris-master, right-click & extract all in the same location
-3. [Stuff needed for gcc/g++](https://iweb.dl.sourceforge.net/project/tdm-gcc/TDM-GCC%20Installer/tdm64-gcc-5.1.0-2.exe) run & install
+1. Download zip to Downloads
+2. Unzip Tetris-master
+    * right-click & extract all in the same location
+3. [gcc/g++ Compilers (used to compile and play)](https://iweb.dl.sourceforge.net/project/tdm-gcc/TDM-GCC%20Installer/tdm64-gcc-5.1.0-2.exe) run & install
+    * Video on how to install the compilers [Compiler Installation Tutorial](www.youtube.com/vhgww2hvyq9jpyp)
+    * If you have installed them once, you don't need to again
 4. Press together: ```Win + R```
 5. type & enter: ```cmd```
-6. type & enter: ```cd Documents``` to **c**hange **d**irectory to your Documents
+6. type & enter: ```cd Downloads``` to **c**hange **d**irectory to your Downloads
 7. type & enter: ```cd Tetris-master```
 8. Once more type & enter: ```cd Tetris-master```
 9. type & enter: ```g++ main.cpp -o run```
-10. type & enter: ```run```
+10. Read ```How to play``` before playing
+11. type & enter: ```run```
 
 # How to play  
 1. **Movement**:
