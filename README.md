@@ -12,7 +12,7 @@
 3. [Stuff needed for gcc/g++](https://iweb.dl.sourceforge.net/project/tdm-gcc/TDM-GCC%20Installer/tdm64-gcc-5.1.0-2.exe) run & install
 4. Press together: ```Win + R```
 5. type & enter: ```cmd```
-6. type & enter: ```cd Documents``` to **c**hange **d**irectory to your Desktop
+6. type & enter: ```cd Documents``` to **c**hange **d**irectory to your Documents
 7. type & enter: ```cd Tetris-master```
 8. Once more type & enter: ```cd Tetris-master```
 9. type & enter: ```g++ main.cpp -o run```
