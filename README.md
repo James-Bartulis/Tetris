@@ -16,7 +16,7 @@
     * right-click & **extract here**
 3. [gcc/g++ Compilers (used to compile and play)](https://iweb.dl.sourceforge.net/project/tdm-gcc/TDM-GCC%20Installer/tdm64-gcc-5.1.0-2.exe)(Ctrl + click) the link
     * run & install
-    * Video on how to install the compilers [Compiler Installation Tutorial](www.youtube.com/vhgww2hvyq9jpyp)(Ctrl + click) the link
+    * Video on how to install the compilers [Compiler Installation Tutorial](https://youtu.be/w23QyVb1Jx4)(Ctrl + click) the link
     * If you have installed them once, you don't need to again
 4. Press together: ```Win + R```
 5. type & enter: ```cmd```
