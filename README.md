@@ -4,7 +4,11 @@
 ![Example 3](Ex3.png)
 
 # FAQ
-[What is Tetris?](https://en.wikipedia.org/wiki/Tetris)
+* [What is Tetris?](https://en.wikipedia.org/wiki/Tetris)(Ctrl + click) the link
+* Does this work on Linux?
+    - Sadly no, due to libraries used in the code.
+* Does this work on Windows
+    - Yes, below instructions are provided.
 
 # Install for windows
 1. Download zip to Downloads
