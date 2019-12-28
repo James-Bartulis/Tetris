@@ -61,7 +61,7 @@ void Tetris::Input()
 {
 	if(_kbhit())
 	{
-		switch(_getch())
+		switch(getch())
 		{
 			case 'w':
 				system("PAUSE");
