@@ -263,6 +263,7 @@ void Tetris::clearFullRows()
 }
 bool Tetris::canRotate()
 {
+	if(currentPiece->ypos + currentPiece->width > height) return false;
 	Piece* oldPiece;
 	oldPiece = new Piece(currentPiece);
 	currentPiece->Rotate();
